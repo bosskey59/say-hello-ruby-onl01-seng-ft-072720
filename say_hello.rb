@@ -5,8 +5,8 @@ def say_hello(name="Ruby Programmer")
   puts "Hello " + name + "!"
 end
 
-say_hello("Alex")
-say_hello("Sashin")
-say_hello()
+# say_hello("Alex")
+# say_hello("Sashin")
+# say_hello() 
 
 
